@@ -1,6 +1,7 @@
 ---
 title: THS Dashboard
 layout: default
+nav_order: 1
 ---
 
 This is the Users section for the Twitter Health Surveillance (THS) Dashboards. 
