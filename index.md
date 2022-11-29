@@ -33,8 +33,8 @@ To get started with creating a site, just click "[use this template]"!
 
 
 [Users]: https://moisesrobles-04.github.io/user/
-[Tweets]: https://moisesrobles-04.github.io/ths-dashboard/
-[Hashtags]: https://moisesrobles-04.github.io/ths-dashboard/
+[Tweets]: https://moisesrobles-04.github.io/ths-dashboard/Tweet
+[Hashtags]: https://moisesrobles-04.github.io/ths-dashboard/hashtags
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
