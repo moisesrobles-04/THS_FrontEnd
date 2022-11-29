@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ths dashboard
+description: This is the dashboard for the THS investigation
 theme: just-the-docs
 
-url: https://THS-just-the-docs.github.io/Dashboard
+url: https://moisesrobles-04.github.io/ths-dashboard
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/moisesrobles-04/ths-dashboard
+  
