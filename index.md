@@ -32,9 +32,9 @@ To get started with creating a site, just click "[use this template]"!
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 
-[Users]: https://moisesrobles-04.github.io/user/
-[Tweets]: https://moisesrobles-04.github.io/ths-dashboard/Tweet
-[Hashtags]: https://moisesrobles-04.github.io/ths-dashboard/hashtags
+[Users]: https://moisesrobles-04.github.io/user.html
+[Tweets]: https://moisesrobles-04.github.io/ths-dashboard/Tweet.html
+[Hashtags]: https://moisesrobles-04.github.io/ths-dashboard/hashtags.html
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
