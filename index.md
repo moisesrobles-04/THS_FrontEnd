@@ -1,5 +1,5 @@
 ---
-title: Home
+title: THS Dashboard
 layout: home
 ---
 
