@@ -1,6 +1,7 @@
 ---
 title: THS Dashboard
 layout: home
+nav_order: 1
 ---
 
 This is a site for the Twitter Health Surveillance (THS) Dashboards. The different categories are:
