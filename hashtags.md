@@ -8,6 +8,12 @@ This is the Hashtags section for the Twitter Health Surveillance (THS) Dashboard
 
 Here we have:
 
-### Top 10 Hashtags
+### Top 20 Hashtags (Bar Table)
 
 ![](/assets/Top_Hashtags_Bar.png)
+
+### Top Hashtags
+
+![](/assets/Top_Hashtags_words.png)
+
+More information will be added soon.
