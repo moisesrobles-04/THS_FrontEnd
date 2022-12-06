@@ -10,4 +10,4 @@ Here we have:
 
 ###Top 10 Hashtags
 
-![](../../assets/Top_Hashtags_Bar.png)
+![](../assets/Top_Hashtags_Bar.png)
