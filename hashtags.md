@@ -8,6 +8,6 @@ This is the Hashtags section for the Twitter Health Surveillance (THS) Dashboard
 
 Here we have:
 
-###Top 10 Hashtags
+### Top 10 Hashtags
 
-![](../assets/Top_Hashtags_Bar.png)
+![](/assets/Top_Hashtags_Bar.png)
