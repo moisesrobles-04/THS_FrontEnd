@@ -10,10 +10,10 @@ Here we have:
 
 ### Top 20 Hashtags (Bar Table)
 
-![](/assets/Top_Hashtags_Bar.png)
+![](/frontend/assetsnd/assets/Top_Hashtags_Bar.png)
 
 ### Top Hashtags
 
-![](/assets/Top_Hashtags_words.png)
+![](/frontend/assetsnd/assets/Top_Hashtags_words.png)
 
 More information will be added soon.
